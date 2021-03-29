@@ -1,0 +1,4 @@
+github.com/kklab-com/gone-httpstatus v0.0.0-20210329103101-07f17310ce7c h1:1iwTLqskAiPhDbMnyHzhDJl5FfRnMcsQoKn6MwLmGCk=
+github.com/kklab-com/gone-httpstatus v0.0.0-20210329103101-07f17310ce7c/go.mod h1:/CQupWAKI9SZjdmc1dAEECtQZXnWn3+OukRtPdLe6eU=
+github.com/kklab-com/goth-kkerror v0.0.0-20210329094539-0929b4435347 h1:8vqoWpqoycjQCiWouFBV5x7JGWE41OVPiKW9b2QMxEs=
+github.com/kklab-com/goth-kkerror v0.0.0-20210329094539-0929b4435347/go.mod h1:KEgEJZV0UeXoKcEiqWjKovSYZU1D/94XXtsD7pZAr90=
