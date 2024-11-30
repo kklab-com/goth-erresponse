@@ -27,7 +27,7 @@ func ServerErrorCrossServiceOperationWithMessage(format string, params ...interf
 		DefaultKKError: kkerror.DefaultKKError{
 			ErrorLevel:    kkerror.Critical,
 			ErrorCategory: kkerror.Internal,
-			ErrorCode:     "500000",
+			ErrorCode:     "500009",
 			ErrorMessage:  fmt.Sprintf(format, params...),
 		},
 	}
